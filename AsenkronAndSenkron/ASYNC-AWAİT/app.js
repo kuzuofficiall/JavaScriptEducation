@@ -58,10 +58,8 @@ asenkron çalişmasına sebep olan durumlar
 
 asenkron yönetmek için :
 
-1- callback 
-2- promise 
-3- ASYNC AWAiT
-
-
+1- callback -ES6 ÖNCESİ
+2- promise - ES6 2015 
+3- ASYNC AWAiT  ES7 OLMASI LAZIM
 
 */
