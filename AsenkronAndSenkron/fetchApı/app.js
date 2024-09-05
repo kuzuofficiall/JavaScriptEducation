@@ -3,7 +3,7 @@
 
  ! CALLBACK --> PROMİSE 
  ! AJAX(XMLHTTPREQUEST) --> FETCH APİ   servera istek atma 
- fetch api birşeyler okduğunda bir promise dönüyor ama response tipinsde bir promise dönüyor ama promisin altındaki jsona erişmemiz lazım orda veriler var veriyi dönmek için response içindeki jsona erişip yapmamı lazım o yüzden 2 tane then kulanıyoruz birinci response ikinci ise json döndürür
+ fetch api birşeyler okduğunda bir promise dönüyor ama response tipinsde bir promise dönüyor ama promisin altındaki jsona erişmemiz lazım orda veriler var veriyi dönmek için response içindeki jsona erişip yapmamız lazım o yüzden 2 tane then kulanıyoruz birinci response ikinci ise json döndürür
 */
 
 // function getStudent(url) {
